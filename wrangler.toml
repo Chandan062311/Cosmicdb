@@ -1,3 +1,6 @@
 name = "cosmic-observer-retro"
-pages_build_output_dir = "./dist"
 compatibility_date = "2024-03-20"
+pages_build_output_dir = "./dist"
+
+[assets]
+directory = "./dist"
